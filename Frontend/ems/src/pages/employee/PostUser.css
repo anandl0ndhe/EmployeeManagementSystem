@@ -1,0 +1,19 @@
+.center-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+.center-form Form{
+    max-width: 400px;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+.center-form Form .Form-control{
+    margin-bottom: 20px;
+    padding: 10px;
+}
