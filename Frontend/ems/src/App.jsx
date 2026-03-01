@@ -2,7 +2,7 @@ import Dashboard from './pages/dashboard/Dashboard';
 import Header from './pages/header/Header';
 import { Routes, Route } from 'react-router-dom';
 import Nomatch from './pages/noMatch/Nomatch';
-import PostUser from './pages/employee/postUser';
+import PostUser from './pages/employee/PostUser';
 import UpdateUser from './pages/employee/UpdateUser';
 function App() {
   return (
